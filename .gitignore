@@ -1,0 +1,6 @@
+# Configuracion de node_modules
+node_modules/
+
+# Configuracion
+
+*lock.json
